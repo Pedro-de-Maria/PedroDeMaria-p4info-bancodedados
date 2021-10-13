@@ -1,0 +1,20 @@
+Presença-08 
+
+Quanto a Abordagem Relacional, descreva os seguintes conceitos:
+a) Tabela: é o conjunto não ordenado de linhas. 
+
+b) Chave Primária: é o identificador único de um registro na tabela.
+
+c) Chave Estrangeira: serve para quando a chave primaria de uma tabela é inserida em outra e tambem é utilizada para impedir a exclusão de um registro caso o mesmo faça a referencia em outra tabela.
+
+d) Chave Alternativa: tabela que tem outros registros que tenham caracteriscas unicas alem da chave primaria.
+
+e) Dominio da Coluna: conjunto de possiveis valores de uma coluna.
+
+f) Integridade de Dominio: conjunto de possiveis valores em uma coluna.
+
+g) Integridade de Vazio: define se é obgrigatorio a presença de dados em uma coluna.
+
+h) Integridade de Chave: define que os valores  que serão imseridos na colunada chave primaria devem ser unicos.
+
+i) Integridade Referencial: é oque define que um valor  de uma chave estrangeira deve corresponder a um valor de uma chave primaria.
