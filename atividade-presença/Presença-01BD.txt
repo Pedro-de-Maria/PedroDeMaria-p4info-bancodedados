@@ -1,0 +1,11 @@
+Atividade Presença-01
+
+ Defina oque é:
+ 
+01) Dado: Os dados são resultados da medição ou observações documentadas.
+
+02) Informação: Informação são fatos que são organizados de maneira a produzir um significado.
+
+03) Arquivos convesionais: são arquivos que são capazes de comprimir arquivos, ainda permitindo que aplicativos acessem os dados.
+
+04) Banco de Dados: São um conjunto de arquivos que são relacionados entre si com registros sobre pessoas, lugares ou coisas.
