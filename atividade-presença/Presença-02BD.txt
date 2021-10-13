@@ -1,0 +1,7 @@
+Atividade Presença 2
+
+Defina oque é:
+
+01) Sistema isolados: são informações de funções que foram formatizadas de separadas, sem considerar a irformação das demais funções.
+
+02) Sistema Integrado: são quando as informações são armazenadaa uma unica vez, e seram acessadas pelo sistemas que elas necessitarem.
