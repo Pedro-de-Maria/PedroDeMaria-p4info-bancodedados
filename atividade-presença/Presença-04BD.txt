@@ -1,0 +1,15 @@
+Defina os seguintes conceitos centrais da abordagem ER:
+
+a) Entidade; São os principais componentes do modelo ER, são elas que armazenam em banco de dados.
+ 
+b) Relacionamento; são as relações entre as entidades.
+
+c) Atributo; são atributos que são dados a uma entidadade e descrevem ela.
+
+d) Dominio de um Atributo; é um tipo de dado que é atribuido no atributo.
+
+e) Generalização/especialização; uma atribuição de propiedades a um subconjubto de entidade.
+
+f) Entidade Associativa; um relacionamento com uma entidade.
+
+g) Cardinalidade de um Atributo: é o numero de instaciad associadas a outra instancia.
