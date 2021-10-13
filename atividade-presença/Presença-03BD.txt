@@ -1,0 +1,11 @@
+Presença-03
+
+Descreva as fases de um Projeto de Banco de Dados:
+
+1) Modelagem Conceitual: trata-se da descrição de aplicativos de software em alto nível de abstração.
+
+2) Projeto Lógico: o projeto logico tem como objetivo avalaiar as necessidades de uso do banco de dados pelos usuarios e realiza possíveis refinamentos para alcançar maior desempenho para as operações.
+
+3) O projeto fisico: é a parte final do projeto, nesta etapa definimos os detalhes tecnicos da implementação do banco de dados.
+
+3) Projeto Físico
