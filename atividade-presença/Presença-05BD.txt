@@ -1,0 +1,8 @@
+Quanto a cardinalidade que define um relacionamento, pede-se:
+a) Exemplifique e conceitue Cardinalidade Máxima e Cardinalidade Mínima: a maxima define a quantidade maxima de ocorrencias da entidade que pode participar do relacionamento e a minima define o relacionamento entre duas entidades.
+
+b) Explique um exemplo de uma cardinalidade 1:1; São relacionamentos onde uma ocorrencia em A esta associado em uma entidade B e a ocorrecia B esta associada na entidade A.
+
+c) Explique um exemplo de uma cardinalidade 1:n; Ocorrem quando uma entidade pode relacionar com varias ocorrencias de outra de entidade.
+
+d) Explique um exemplo de uma cardinalidade n:n :um tipo de cardinalidade onde o relacionamento entre duas entidade A e E, onde A pode ter uma instancia pai a qual existem muitas instancias em E e vice e versa.
